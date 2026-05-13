@@ -111,7 +111,43 @@ export default function GradineWebsite() {
             </div>
           </div>
 
-        </div>
+    <div style={{
+  background: "#111",
+  borderRadius: "20px",
+  overflow: "hidden"
+}}>
+  <img
+    src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=1600&auto=format&fit=crop"
+    alt="ИСКРИТ"
+    style={{
+      width: "100%"
+    }}
+  />
+
+  <div style={{
+    padding: "25px"
+  }}>
+    <h3 style={{
+      margin: "0 0 10px 0",
+      fontSize: "28px"
+    }}>
+      ИСКРИТ
+    </h3>
+
+    <p style={{
+      color: "#888"
+    }}>
+      2026
+    </p>
+
+    <p style={{
+      color: "#bbb",
+      lineHeight: "1.6"
+    }}>
+      Neon cinematic electronic anthem about energy, awakening and emotional fire.
+    </p>
+  </div>
+</div>    </div>
       </section>
 
     </div>
