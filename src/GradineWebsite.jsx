@@ -62,10 +62,17 @@ export default function GradineWebsite() {
   flexWrap: "wrap",
   marginTop: "22px"
 }}>
-  <a href="ТВОЯ_SPOTIFY_ССЫЛКА" style={buttonStyle}>
-    Spotify
-  </a>
-  <a href="ТВОЯ_YOUTUBE_ССЫЛКА" style={buttonStyle}>
+  <a
+  href="https://open.spotify.com/user/31tslrmgee4vn3q2jzd6l2lv6wrq?si=tBCUToQzTI-iGlkKrP74xA"
+  style={{
+    ...buttonStyle,
+    border: "1px solid #1DB954",
+    boxShadow: "0 0 20px rgba(29,185,84,0.5)"
+  }}
+>
+  Spotify
+</a>
+  <a href="https://music.youtube.com/@gradine_music?si=Vlu48pkgbqGEX1mN" style={buttonStyle}>
     YouTube Music
   </a>
 </div>
