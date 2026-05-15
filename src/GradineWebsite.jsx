@@ -46,7 +46,7 @@ export default function GradineWebsite() {
         </p>
 
         <img
-          src="https://images.unsplash.com/photo-1516280440614-37939bbacd81?q=80&w=1600&auto=format&fit=crop"
+          src="/covers/kak-dym.png"
           alt="GRADINE"
           style={{
             width: "100%",
@@ -78,7 +78,7 @@ export default function GradineWebsite() {
             overflow: "hidden"
           }}>
             <img
-              src="https://images.unsplash.com/photo-1501386761578-eac5c94b800a?q=80&w=1600&auto=format&fit=crop"
+              src="/covers/kak-dym.png"
               alt="Как дым"
               style={{
                 width: "100%"
@@ -117,7 +117,7 @@ export default function GradineWebsite() {
   overflow: "hidden"
 }}>
   <img
-    src="https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?q=80&w=1600&auto=format&fit=crop"
+    src="/covers/iskrit.png"
     alt="ИСКРИТ"
     style={{
       width: "100%"
