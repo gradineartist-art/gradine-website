@@ -44,8 +44,21 @@ export default function GradineWebsite() {
           Emotional cinematic electronic music blending dark pop,
           ambient textures and living vocals that feel like memories speaking back.
         </p>
-
-        <img
+         <div style={{
+  display: "flex",
+  gap: "10px",
+  justifyContent: "center",
+  flexWrap: "wrap",
+  marginTop: "22px"
+}}>
+  <a href="ТВОЯ_SPOTIFY_ССЫЛКА" style={buttonStyle}>
+    Spotify
+  </a>
+  <a href="ТВОЯ_YOUTUBE_ССЫЛКА" style={buttonStyle}>
+    YouTube Music
+  </a>
+</div>
+         <img
           src="/covers/kak-dym.png"
           alt="GRADINE"
           style={{
@@ -150,6 +163,18 @@ export default function GradineWebsite() {
 </div>    </div>
       </section>
 
-    </div>
+    
+  </div>
+    const buttonStyle = {
+  padding: "12px 22px",
+  background: "#111",
+  color: "#fff",
+  border: "1px solid #333",
+  borderRadius: "14px",
+  textDecoration: "none",
+  fontWeight: "600",
+  transition: "0.3s",
+  boxShadow: "0 0 20px rgba(255,255,255,0.08)"
+}
   )
 }
