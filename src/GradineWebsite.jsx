@@ -72,10 +72,27 @@ export default function GradineWebsite() {
 >
   Spotify
 </a>
-  <a href="https://music.youtube.com/@gradine_music?si=Vlu48pkgbqGEX1mN" style={buttonStyle}>
-    YouTube Music
-  </a>
-</div>
+  <a
+  href="https://music.youtube.com/@gradine_music?si=Vlu48pkgbqGEX1mN"
+  style={buttonStyle}
+>
+  YouTube Music
+</a>
+   <a
+  href="ТВОЯ_ССЫЛКА_НА_YOUTUBE_КАНАЛ"
+  style={{
+    ...buttonStyle,
+    width: "100%",
+    maxWidth: "320px",
+    border: "1px solid #ff0000",
+    boxShadow: "0 0 28px rgba(255,0,0,0.55)",
+    marginTop: "6px"
+  }}
+>
+  ▶ Official YouTube Channel
+</a>       
+
+         </div>
          <img
           src="/covers/kak-dym.png"
           alt="GRADINE"
