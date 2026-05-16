@@ -40,7 +40,7 @@ export default function GradineWebsite() {
         </p>
 
         <h1 style={{
-          fontSize: "64px",
+          fontSize: "44px",
           margin: "0",
           fontWeight: "900"
         }}>
