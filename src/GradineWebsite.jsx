@@ -79,7 +79,7 @@ GRADINE – «ИСКРИТ»
   marginTop: "22px"
 }}>
   <a
-  href="https://open.spotify.com/artist/3M3LPPdWxQEgRkQYMuTTkP?si=yJwS7ViyQoSQ8GSiFVGf_g"
+  href="https://open.spotify.com/artist/3M3LPPdWxQEgRkQYMuTTkP"
   style={{
     ...buttonStyle,
     border: "1px solid #d4af37",
@@ -140,7 +140,7 @@ Official YouTube Channel
 
          </div>
         
-<a href="https://open.spotify.com/artist/3M3LPPdWxQEgRkQYMuTTkP?si=yJwS7ViyQoSQ8GSiFVGf_g"> 
+<a href="https://open.spotify.com/artist/3M3LPPdWxQEgRkQYMuTTkP"> 
        <img
           src="/covers/kak-dym.png"
           alt="GRADINE"
