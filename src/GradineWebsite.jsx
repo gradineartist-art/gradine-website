@@ -216,14 +216,16 @@ Official YouTube Channel
   borderRadius: "20px",
   overflow: "hidden"
 }}>
-  <img
+ <a href="https://open.spotify.com/artist/3M3LPPdWxQEgRkQYMuTTkP?si=yJwS7ViyQoSQ8GSiFVGf_g">
+
+     <img
     src="/covers/iskrit.png"
     alt="ИСКРИТ"
     style={{
       width: "100%"
     }}
   />
-
+</a>
   <div style={{
     padding: "25px"
   }}>
