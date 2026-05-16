@@ -70,7 +70,7 @@ export default function GradineWebsite() {
     boxShadow: "0 0 20px rgba(29,185,84,0.5)"
   }}
 >
-  Spotify
+  🎼Spotify
 </a>
   <a
 href="https://music.youtube.com/..."
@@ -80,7 +80,7 @@ style={{
   boxShadow: "0 0 20px rgba(255,0,51,0.45)"
 }}
 >
-YouTube Music
+🎵YouTube Music
 </a>
    <a
   href="https://www.youtube.com/@gradine_music"
