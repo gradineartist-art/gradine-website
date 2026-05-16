@@ -59,7 +59,7 @@ export default function GradineWebsite() {
         <p style={{
           maxWidth: "700px",
           margin: "30px auto",
-          color: "#e7d2a1",
+          color: "#f4e7c5",
           lineHeight: "1.7"
         }}>
           GRADINE — пространство между светом и тьмой.
