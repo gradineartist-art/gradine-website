@@ -69,7 +69,7 @@ GRADINE – «ИСКРИТ»
   marginTop: "22px"
 }}>
   <a
-  href="https://open.spotify.com/user/31tslrmgee4vn3q2jzd6l2lv6wrq?si=tBCUToQzTI-iGlkKrP74xA"
+  href="https://open.spotify.com/artist/3M3LPPdWxQEgRkQYMuTTkP?si=yJwS7ViyQoSQ8GSiFVGf_g"
   style={{
     ...buttonStyle,
     border: "1px solid #1DB954",
