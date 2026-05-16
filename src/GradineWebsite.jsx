@@ -251,7 +251,28 @@ Official YouTube Channel
   </div>
 </div>    </div>
       </section>
-<footer style={{
+<section style={{
+  padding: "50px 20px",
+  maxWidth: "800px",
+  margin: "0 auto",
+  textAlign: "center",
+  color: "#aaa",
+  lineHeight: "1.7"
+}}>
+  <h2 style={{
+    color: "#fff",
+    fontSize: "34px",
+    marginBottom: "20px"
+  }}>
+    ABOUT GRADINE
+  </h2>
+
+  <p>
+    GRADINE is a cinematic dark pop project built around emotional tension,
+    intimate vocals, deep electronic textures and the space between silence and impulse.
+  </p>
+</section>
+     <footer style={{
   marginTop: "60px",
   padding: "30px 0",
   textAlign: "center",
