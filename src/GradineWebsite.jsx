@@ -243,7 +243,19 @@ Official YouTube Channel
   </div>
 </div>    </div>
       </section>
-
+<footer style={{
+  marginTop: "60px",
+  padding: "30px 0",
+  textAlign: "center",
+  color: "#777",
+  fontSize: "13px",
+  borderTop: "1px solid #222"
+}}>
+  <p>© 2026 GRADINE</p>
+  <p style={{ marginTop: "8px" }}>
+    Cinematic electronic music • Dark pop • Emotional neon
+  </p>
+</footer>
     
   </div>
 
