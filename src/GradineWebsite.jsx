@@ -173,7 +173,7 @@ Official YouTube Channel
             background: "#111",
             borderRadius: "20px",
             overflow: "hidden",
-          boxShadow: "0 0 25px rgba(255,255,255,0.04)",
+          boxShadow: "0 0 40px rgba(255,0,180,0.18)",
 border: "1px solid #1a1a1a",
 transition: "0.3s ease",
 }}>
