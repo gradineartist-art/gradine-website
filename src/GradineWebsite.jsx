@@ -90,7 +90,7 @@ GRADINE – «ИСКРИТ»
   src="/icons/spotify.png"
   alt="Spotify"
    style={{
-    width: "20px",
+    width: "16px",
     marginRight: "8px",
     verticalAlign: "middle"
   }}
@@ -109,7 +109,7 @@ style={{
 src="/icons/youtube.png"
 alt="YouTube Music"
 style={{
-  width: "20px",
+  width: "16px",
   marginRight: "8px",
   verticalAlign: "middle"
 }}
@@ -129,7 +129,7 @@ style={{
 src="/icons/youtube.png"
 alt="YouTube"
 style={{
-  width: "20px",
+  width: "16px",
   marginRight: "8px",
   verticalAlign: "middle"
 }}
