@@ -28,7 +28,7 @@ export default function GradineWebsite() {
   }}
 />
       <section style={{
-        padding: "10px 10px",
+        padding: "5px 5px",
         textAlign: "center"
       }}>
         <p style={{
