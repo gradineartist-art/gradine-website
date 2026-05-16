@@ -263,7 +263,7 @@ transition: "0.3s ease",
   lineHeight: "1.7"
 }}>
   <h2 style={{
-    color: "#fff",
+    color: "#e7d2a1",
     fontSize: "34px",
     marginBottom: "20px"
   }}>
