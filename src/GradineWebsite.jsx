@@ -1,12 +1,13 @@
 export default function GradineWebsite() {
  const buttonStyle = {
-  padding: "12px 22px",
+  padding: "9px 16px",
   background: "#111",
   color: "#fff",
   border: "1px solid #333",
-  borderRadius: "14px",
+  borderRadius: "10px",
   textDecoration: "none",
   fontWeight: "600",
+  fontSize: "15px",
   transition: "0.3s",
   boxShadow: "0 0 20px rgba(255,255,255,0.08)"
 }
