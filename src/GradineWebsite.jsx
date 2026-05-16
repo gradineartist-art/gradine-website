@@ -81,13 +81,10 @@ export default function GradineWebsite() {
    <a
   href="https://www.youtube.com/@gradine_music"
   style={{
-    ...buttonStyle,
-    width: "100%",
-    maxWidth: "320px",
-    border: "1px solid #ff0000",
-    boxShadow: "0 0 28px rgba(255,0,0,0.55)",
-    marginTop: "6px"
-  }}
+  ...buttonStyle,
+  border: "1px solid #ff0033",
+  boxShadow: "0 0 20px rgba(255,0,51,0.45)"
+}}
 >
   ▶ Official YouTube Channel
 </a>       
