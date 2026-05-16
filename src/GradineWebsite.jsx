@@ -248,7 +248,7 @@ Official YouTube Channel
   padding: "30px 0",
   textAlign: "center",
   color: "#aaa",
-  fontSize: "13px",
+  fontSize: "18px",
   borderTop: "1px solid #222"
 }}>
   <p>© 2026 GRADINE</p>
