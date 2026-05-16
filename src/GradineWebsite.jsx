@@ -95,7 +95,17 @@ style={{
   boxShadow: "0 0 20px rgba(255,0,51,0.45)"
 }}
 >
-YouTube Music
+<img
+src="/icons/youtube.png"
+alt="YouTube Music"
+style={{
+  width: "20px",
+  marginRight: "8px",
+  verticalAlign: "middle"
+}}
+/>
+   
+   YouTube Music
 </a>
    <a
 href="https://www.youtube.com/@gradine_music"
