@@ -52,8 +52,14 @@ export default function GradineWebsite() {
           color: "#777",
           lineHeight: "1.7"
         }}>
-          Emotional cinematic electronic music blending dark pop,
-          ambient textures and living vocals that feel like memories speaking back.
+          GRADINE — пространство между светом и тьмой.
+Cinematic electronic / dark pop / emotional tension.
+Не просто музыка — состояние, которое остаётся внутри.
+
+Если осталось внутри найди на SPOTIFY 
+
+GRADINE – Как дым 
+GRADINE – ИСКРИТ 
         </p>
          <div style={{
   display: "flex",
