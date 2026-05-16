@@ -58,8 +58,8 @@ Cinematic electronic / dark pop / emotional tension.
 
 Если осталось внутри найди на SPOTIFY 
 
-GRADINE – Как дым 
-GRADINE – ИСКРИТ 
+GRADINE – «Как дым»
+GRADINE – «ИСКРИТ» 
         </p>
          <div style={{
   display: "flex",
