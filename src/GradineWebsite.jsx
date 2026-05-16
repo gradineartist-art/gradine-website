@@ -247,7 +247,7 @@ Official YouTube Channel
   marginTop: "60px",
   padding: "30px 0",
   textAlign: "center",
-  color: "#777",
+  color: "#aaa",
   fontSize: "13px",
   borderTop: "1px solid #222"
 }}>
