@@ -101,8 +101,8 @@ GRADINE – «ИСКРИТ»
 href="https://music.youtube.com/..."
 style={{
   ...buttonStyle,
-  border: "1px solid #ff0033",
-  boxShadow: "0 0 20px rgba(255,0,51,0.45)"
+  border: "1px solid #d4af37",
+boxShadow: "0 0 24px rgba(212,175,55,0.40)"
 }}
 >
 <img
@@ -121,8 +121,8 @@ style={{
 href="https://www.youtube.com/@gradine_music"
 style={{
   ...buttonStyle,
-  border: "1px solid #ff0033",
-  boxShadow: "0 0 20px rgba(255,0,51,0.45)"
+  border: "1px solid #d4af37",
+boxShadow: "0 0 24px rgba(212,175,55,0.40)"
 }}
 >
 <img
