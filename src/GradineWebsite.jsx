@@ -73,10 +73,14 @@ export default function GradineWebsite() {
   Spotify
 </a>
   <a
-  href="https://music.youtube.com/@gradine_music?si=Vlu48pkgbqGEX1mN"
-  style={buttonStyle}
+href="https://music.youtube.com/..."
+style={{
+  ...buttonStyle,
+  border: "1px solid #ff0033",
+  boxShadow: "0 0 20px rgba(255,0,51,0.45)"
+}}
 >
-  YouTube Music
+YouTube Music
 </a>
    <a
   href="https://www.youtube.com/@gradine_music"
