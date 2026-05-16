@@ -174,7 +174,9 @@ Official YouTube Channel
             borderRadius: "20px",
             overflow: "hidden"
           }}>
-            <img
+            <a href="https://open.spotify.com/artist/3M3LPPdWxQEgRkQYMuTTkP?si=yJwS7ViyQoSQ8GSiFVGf_g">
+
+           <img
               src="/covers/kak-dym.png"
               alt="Как дым"
               style={{
@@ -182,7 +184,8 @@ Official YouTube Channel
               }}
             />
 
-            <div style={{
+            </a>
+             <div style={{
               padding: "25px"
             }}>
               <h3 style={{
