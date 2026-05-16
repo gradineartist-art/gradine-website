@@ -139,7 +139,9 @@ Official YouTube Channel
 </a>
 
          </div>
-         <img
+        
+<a href="https://open.spotify.com/artist/3M3LPPdWxQEgRkQYMuTTkP?si=yJwS7ViyQoSQ8GSiFVGf_g"> 
+       <img
           src="/covers/kak-dym.png"
           alt="GRADINE"
           style={{
@@ -149,6 +151,7 @@ Official YouTube Channel
             marginTop: "40px"
           }}
         />
+ </a>
       </section>
 
       <section style={{
