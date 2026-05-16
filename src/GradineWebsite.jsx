@@ -79,7 +79,7 @@ export default function GradineWebsite() {
   YouTube Music
 </a>
    <a
-  href="https://youtube.com/@gradine_music?si=dwVKnKKJd8gUBeOY"
+  href="https://www.youtube.com/@gradine_music"
   style={{
     ...buttonStyle,
     width: "100%",
