@@ -172,8 +172,11 @@ Official YouTube Channel
           <div style={{
             background: "#111",
             borderRadius: "20px",
-            overflow: "hidden"
-          }}>
+            overflow: "hidden",
+          boxShadow: "0 0 25px rgba(255,255,255,0.04)",
+border: "1px solid #1a1a1a",
+transition: "0.3s ease",
+}}>
             <a href="https://open.spotify.com/artist/3M3LPPdWxQEgRkQYMuTTkP?si=yJwS7ViyQoSQ8GSiFVGf_g">
 
            <img
