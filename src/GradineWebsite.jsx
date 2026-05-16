@@ -85,7 +85,7 @@ GRADINE – «ИСКРИТ»
     verticalAlign: "middle"
   }}
 />
-   ✅Spotify
+   Spotify
 </a>
   <a
 href="https://music.youtube.com/..."
@@ -95,7 +95,7 @@ style={{
   boxShadow: "0 0 20px rgba(255,0,51,0.45)"
 }}
 >
-✅YouTube Music
+YouTube Music
 </a>
    <a
 href="https://www.youtube.com/@gradine_music"
