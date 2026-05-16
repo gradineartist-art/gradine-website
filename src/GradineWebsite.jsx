@@ -76,7 +76,16 @@ GRADINE – «ИСКРИТ»
     boxShadow: "0 0 20px rgba(29,185,84,0.5)"
   }}
 >
-  ✅Spotify
+  <img
+  src="/icons/spotify.png"
+  alt="Spotify"
+   style={{
+    width: "20px",
+    marginRight: "8px",
+    verticalAlign: "middle"
+  }}
+/>
+   ✅Spotify
 </a>
   <a
 href="https://music.youtube.com/..."
@@ -89,14 +98,23 @@ style={{
 ✅YouTube Music
 </a>
    <a
-  href="https://www.youtube.com/@gradine_music"
-  style={{
+  href="https://www.youtube.com/@gradine_music
+    style={{
   ...buttonStyle,
   border: "1px solid #ff0033",
   boxShadow: "0 0 20px rgba(255,0,51,0.45)"
 }}
 >
-  ▶ Official YouTube Channel
+  <img
+  src="/icons/youtube.png"
+  alt="YouTube"
+  style={{
+    width: "20px",
+    marginRight: "8px",
+    verticalAlign: "middle"
+  }}
+/>
+          ▶ Official YouTube Channel
 </a>       
 
          </div>
