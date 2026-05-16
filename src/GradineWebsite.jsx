@@ -17,7 +17,16 @@ export default function GradineWebsite() {
       minHeight: "100vh",
       fontFamily: "Arial, sans-serif"
     }}>
-
+<img
+  src="/banner.png"
+  alt="GRADINE banner"
+  style={{
+    width: "100%",
+    maxWidth: "900px",
+    display: "block",
+    margin: "40px auto 0 auto"
+  }}
+/>
       <section style={{
         padding: "60px 20px",
         textAlign: "center"
