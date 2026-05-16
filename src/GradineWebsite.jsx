@@ -18,7 +18,7 @@ export default function GradineWebsite() {
       fontFamily: "Arial, sans-serif"
     }}>
 <img
-  src="/banner.png"
+  src="/banner1.png"
   alt="GRADINE banner"
   style={{
     width: "100%",
