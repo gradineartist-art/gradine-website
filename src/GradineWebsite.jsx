@@ -33,7 +33,7 @@ export default function GradineWebsite() {
         textAlign: "center"
       }}>
         <p style={{
-          color: "#888",
+          color: "#f4e7c5",
           letterSpacing: "3px",
           marginBottom: "20px"
         }}>
