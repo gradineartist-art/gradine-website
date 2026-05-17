@@ -13,7 +13,7 @@ export default function GradineWebsite() {
 }
   return (
     <div style={{
-      background: "#000",
+      background: "linear-gradient(to bottom, #0b1020, #050505)"
       color: "white",
       minHeight: "100vh",
       fontFamily: "Arial, sans-serif"
