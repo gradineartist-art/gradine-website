@@ -25,7 +25,7 @@ export default function GradineWebsite() {
     width: "100%",
     maxWidth: "900px",
     display: "block",
-    margin: "10px auto 0 auto"
+    margin: "5px auto 0 auto"
   }}
 />
       <section style={{
