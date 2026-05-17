@@ -23,7 +23,7 @@ export default function GradineWebsite() {
   alt="GRADINE banner"
   style={{
     width: "100%",
-    maxWidth: "900px",
+    maxWidth: "1920px",
     display: "block",
     margin: "5px auto 0 auto"
   }}
